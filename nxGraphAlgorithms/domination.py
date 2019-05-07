@@ -1,5 +1,5 @@
-from functions.bool_functions import is_dominating
-from functions.global_properties import V, n
+from Functions.bool_functions import is_dominating
+from Functions.global_properties import V, n
 from itertools import combinations 
 
 def minimum_dominating_set(G):

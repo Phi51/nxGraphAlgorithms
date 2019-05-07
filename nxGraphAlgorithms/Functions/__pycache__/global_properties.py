@@ -1,5 +1,5 @@
 import networkx as nx
-from Functions.local_properties import degree, neighbors
+from Function.local_properties import degree, neighbors
 
 def V(G):
     return list(nx.nodes(G))

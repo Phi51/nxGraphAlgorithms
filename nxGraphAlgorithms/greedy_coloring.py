@@ -1,5 +1,6 @@
-from functions.global_properties import V
-from functions.local_properties import neighbors
+
+from Functions.global_properties import V
+from Functions.local_properties import neighbors
 
 def greedy_coloring(G):
     colors = {v: None for v in V(G)}

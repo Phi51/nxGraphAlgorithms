@@ -1,6 +1,6 @@
 from itertools import combinations
-from functions.bool_functions import is_independent
-from functions.global_properties import V, n
+from Functions.bool_functions import is_independent
+from Functions.global_properties import V, n
 
 
 def maximum_independent_set(G):

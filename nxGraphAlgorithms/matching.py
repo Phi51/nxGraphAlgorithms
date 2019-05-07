@@ -1,5 +1,5 @@
-from functions.bool_functions import is_matching 
-from functions.global_properties import n, E
+from Functions.bool_functions import is_matching 
+from Functions.global_properties import n, E
 from itertools import combinations
 from math import floor
 
